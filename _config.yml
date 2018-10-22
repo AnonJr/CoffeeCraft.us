@@ -7,10 +7,10 @@
 # remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "CoffeeCraft.us"
-description: "A small, family survival Minecraft world."
+description: "A small family of survival Minecraft and Coffee enthusiasts."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://coffeecraft.us # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: /assets/res/logo.png # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -34,11 +34,11 @@ liquid:
 permalink: /:categories/:title/
 markdown: kramdown
 feed:
-  path: atom.xml
+  path: rss.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-# paginate: 10
-# paginate_path: /page:num/
+paginate: 10
+paginate_path: /page:num/
 
 # Search
 search_full_content: false # can have performance implications for large sites
@@ -50,14 +50,16 @@ search_full_content: false # can have performance implications for large sites
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - misc/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 plugins:
   - jekyll-seo-tag
@@ -89,5 +91,5 @@ author:
 # Footer Links
 footer_links:
   - title: Feed
-    url: atom.xml
+    url: rss.xml
     icon: fas fa-rss-square
