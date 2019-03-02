@@ -9,4 +9,13 @@ AnonJr:
     - title: Twitter
       url: https://twitter.com/anonjr
       icon: fab fa-twitter-square
-
+Arcaidius:
+  name: Arcaidius
+  picture: /assets/res/Arcaidius-Helm.png
+  # twitter:
+  # links:
+Rayeste:
+  name: Rayeste
+  picture: /assets/res/Rayeste-Helm.png
+  # twitter:
+  # links:

@@ -11,7 +11,7 @@ description: "A small family of survival Minecraft and Coffee enthusiasts."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://coffeecraft.us # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: /assets/res/logo.png # path of site logo, e.g. "/images/logo.png"
-date_format: "%B %-d, %Y"
+date_format: "%d %b %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
 mathjax: # MathJax equations, e.g. true
@@ -45,7 +45,7 @@ search_full_content: false # can have performance implications for large sites
 
 # Taxonomy pages
 # category_archive_path: "/categories/#"
-# tag_archive_path: "/tags/#"
+tag_archive_path: "/tags/#"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -67,6 +67,12 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+# Collections
+collections:
+  members:
+    output: true
+    permalink: /:collection/:path/
+
 # Front Matter Defaults
 defaults:
   # Posts defaults
@@ -75,14 +81,23 @@ defaults:
       type: posts
     values:
       layout: post
+      comments: false
+      share: true
+  # Members defaults
+  - scope:
+      path: "_members"
+      type: members
+    values:
+      layout: page
+      comments: false
       share: true
 
 # Site Author
 author:
-  name:
-  picture:
+  name: AnonJr
+  picture: /assets/res/AnonJr-Helm.png
   email:
-  twitter:
+  twitter: "@anonjr"
   links:
     - title:
       url:
