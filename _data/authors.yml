@@ -9,6 +9,12 @@ AnonJr:
     - title: Twitter
       url: https://twitter.com/anonjr
       icon: fab fa-twitter-square
+    - title: Twitch
+      url: https://www.twitch.tv/anonjr_live
+      icon: fab fa-twitch
+    #- title: Mixer
+    #  url: https://mixer.com/AnonJr_Live
+    #  icon:
 Arcaidius:
   name: Arcaidius
   picture: /assets/res/Arcaidius-Helm.png
