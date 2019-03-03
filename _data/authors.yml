@@ -4,24 +4,33 @@
 AnonJr:
   name: AnonJr
   picture: /assets/res/AnonJr-Helm.png
+  bust: /assets/res/AnonJr-Bust.png
   twitter: "@anonjr"
   links:
+    - title: Blog
+      url: https://www.anonjr.com
+      icon: fas fa-home
     - title: Twitter
       url: https://twitter.com/anonjr
       icon: fab fa-twitter-square
+    - title: YouTube
+      url:
+      icon: fab fa-youtube
     - title: Twitch
       url: https://www.twitch.tv/anonjr_live
       icon: fab fa-twitch
-    #- title: Mixer
-    #  url: https://mixer.com/AnonJr_Live
-    #  icon:
+    - title: Mixer
+      url: https://mixer.com/AnonJr_Live
+      icon:
 Arcaidius:
   name: Arcaidius
   picture: /assets/res/Arcaidius-Helm.png
+  bust: /assets/res/Arcaidius-Bust.png
   # twitter:
   # links:
 Rayeste:
   name: Rayeste
   picture: /assets/res/Rayeste-Helm.png
+  bust: /assets/res/Rayeste-Bust.png
   # twitter:
   # links:
