@@ -1,10 +1,18 @@
-# Sample Authors
-# Remove file or replace with your own
+# Collection of authors and members
+# Edit: https://www.minecraftskins.com/skin-editor/
+# Get the UUID and Skin from: https://www.minecraftskins.com/skin-grabber/
+# Get local copies of the assets from:
+#  - Body: https://minotar.net/armor/body/AnonJr/200.png
+#  - Bust: https://minotar.net/armor/bust/AnonJr/200.png
+#  - Helm: https://minotar.net/helm/AnonJr/200.png
+#  - Helm: https://minotar.net/helm/AnonJr/60.png
 
 AnonJr:
   name: AnonJr
-  picture: /assets/res/AnonJr-Helm.png
-  bust: /assets/res/AnonJr-Bust.png
+  UUID-L: c2a1aa2d-e72f-4460-b6d7-dcdcc9197758
+  UUID-S: c2a1aa2de72f4460b6d7dcdcc9197758
+  picture: https://minotar.net/helm/c2a1aa2de72f4460b6d7dcdcc9197758/200.png
+  bust: https://minotar.net/armor/bust/c2a1aa2de72f4460b6d7dcdcc9197758/200.png
   twitter: "@anonjr"
   links:
     - title: Blog
@@ -24,13 +32,17 @@ AnonJr:
       icon:
 Arcaidius:
   name: Arcaidius
-  picture: /assets/res/Arcaidius-Helm.png
-  bust: /assets/res/Arcaidius-Bust.png
+  UUID-L: c7a25980-8030-4d5c-8cb6-6ea9ddbdf669
+  UUID-S: c7a2598080304d5c8cb66ea9ddbdf669
+  picture: https://minotar.net/helm/c7a2598080304d5c8cb66ea9ddbdf669/200.png
+  bust: https://minotar.net/armor/bust/c7a2598080304d5c8cb66ea9ddbdf669/200.png
   # twitter:
   # links:
 Rayeste:
   name: Rayeste
-  picture: /assets/res/Rayeste-Helm.png
-  bust: /assets/res/Rayeste-Bust.png
+  UUID-L: 03882165-65c9-47fe-87de-9c94213c8a9b
+  UUID-S: 0388216565c947fe87de9c94213c8a9b
+  picture: https://minotar.net/helm/0388216565c947fe87de9c94213c8a9b/200.png
+  bust: https://minotar.net/armor/bust/0388216565c947fe87de9c94213c8a9b/200.png
   # twitter:
   # links:

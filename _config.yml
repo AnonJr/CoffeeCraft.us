@@ -88,7 +88,7 @@ defaults:
       path: "_members"
       type: members
     values:
-      layout: page
+      layout: profile
       comments: false
       share: true
 
