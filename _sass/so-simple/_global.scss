@@ -76,7 +76,8 @@
 
 .masthead {
   @include clearfix;
-  margin-bottom: 3em;
+  color: $nav-color;
+  background-color: $nav-background-color;
   text-align: center;
 }
 
@@ -102,6 +103,7 @@
 .site-logo {
   display: inline-block;
   position: relative;
+  border: 2px solid $nav-color;
   z-index: 10;
 }
 
