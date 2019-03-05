@@ -8,3 +8,8 @@ image:
 ---
 
 Founding member of CoffeeCraft, hoarder of blocks, and grand planner.
+
+## <i class="fas fa-mug-hot"></i> Coffee
+Order matters. Rayeste puts in the sugar and cream, mixes, and then adds the coffee until it's a nice shade of dockers khaki.
+
+## <i class="fas fa-building"></i> Craft

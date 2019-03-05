@@ -8,3 +8,8 @@ image:
 ---
 
 Founding member of CoffeeCraft, server explorer, and resident prankster.
+
+## <i class="fas fa-mug-hot"></i> Coffee
+Arcaidius is known to occasionally have coffee in his cup of whipped cream.
+
+## <i class="fas fa-building"></i> Craft
