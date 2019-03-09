@@ -6,8 +6,10 @@
   url: /members/
 - title: Posts
   url: /posts/
-- title: Tags
-  url: /tags/
+- title: About
+  url: /about/
+# - title: Tags
+#   url: /tags/
 # - title: Search
 #   url: /search/
 # - title: Categories
