@@ -91,6 +91,14 @@ defaults:
       layout: profile
       comments: false
       share: true
+  # About/Seasons defaults
+  - scope:
+      path: "_seasons"
+      type: seasons
+    values:
+      layout: page
+      comments: false
+      share: true
 
 # Site Author
 author:
