@@ -95,7 +95,7 @@ defaults:
 # Site Author
 author:
   name: AnonJr
-  picture: /assets/res/AnonJr-Helm.png
+  picture: https://minotar.net/helm/c2a1aa2de72f4460b6d7dcdcc9197758/200.png
   email:
   twitter: "@anonjr"
   links:
@@ -105,6 +105,18 @@ author:
 
 # Footer Links
 footer_links:
+  - title: Home
+    url: /
+    icon: fas fa-home
+  - title: Members
+    url: /members/
+    icon: fas fa-users
+  - title: Posts
+    url: /posts/
+    icon: fas fa-newspaper
+  - title: About
+    url: /about/
+    icon: fas fa-info-circle
   - title: Feed
-    url: rss.xml
+    url: /rss.xml
     icon: fas fa-rss-square
