@@ -22,7 +22,7 @@ AnonJr:
       url: https://twitter.com/anonjr
       icon: fab fa-twitter-square
     - title: YouTube
-      url:
+      url: https://www.youtube.com/channel/UCXafqhKHbkSUIrq0LAuu0tw
       icon: fab fa-youtube
     - title: Twitch
       url: https://www.twitch.tv/anonjr_live
@@ -36,8 +36,10 @@ Arcaidius:
   UUID-S: c7a2598080304d5c8cb66ea9ddbdf669
   picture: https://minotar.net/helm/c7a2598080304d5c8cb66ea9ddbdf669/200.png
   bust: https://minotar.net/armor/bust/c7a2598080304d5c8cb66ea9ddbdf669/200.png
-  # twitter:
-  # links:
+  links:
+    - title: Twitch
+      url: https://www.twitch.tv/arcaidius_
+      icon: fab fa-twitch
 Rayeste:
   name: Rayeste
   UUID-L: 03882165-65c9-47fe-87de-9c94213c8a9b
