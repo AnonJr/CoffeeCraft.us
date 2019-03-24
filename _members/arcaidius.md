@@ -14,3 +14,14 @@ Arcaidius is known to have coffee in his cup of whipped cream, the coffee well l
 
 ## <i class="fas fa-building"></i> Craft
 Founding member of CoffeeCraft, server explorer, and resident prankster.
+
+## <i class="fab fa-twitch"></i> Twitch Channel
+
+<div id="twitch-embed" class="responsive-embed responsive-embed-16by9"></div>
+<script src="https://embed.twitch.tv/embed/v1.js"></script>
+<script type="text/javascript">
+  new Twitch.Embed("twitch-embed", {
+    channel: "arcaidius_",
+    layout: "video"
+  });
+</script>
