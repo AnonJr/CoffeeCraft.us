@@ -9,12 +9,11 @@ tags:
 
 So &hellip; recently finished a test stream:
 
-{% include responsive-embed url="https://youtu.be/znUJW1QAy68" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
-<!-- https://youtu.be/znUJW1QAy68
-
+{% include responsive-embed url="https://www.youtube.com/embed/znUJW1QAy68" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% comment %}
+<!-- https://youtu.be/znUJW1QAy68 -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/znUJW1QAy68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- -->
+{% endcomment %}
 
 That's the end video (Or go [directly to the video](https://youtu.be/znUJW1QAy68) if the embed isn't working right). I hadn't been cleared for [YouTube](https://www.youtube.com/channel/UCXafqhKHbkSUIrq0LAuu0tw) streaming yet so it only went out live to [Twitch](https://www.twitch.tv/anonjr_live) and [Mixer](https://mixer.com/AnonJr_Live?vod=91997262).
 
