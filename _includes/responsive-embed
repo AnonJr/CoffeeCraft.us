@@ -11,6 +11,12 @@
     {%- assign ratio_class = 'responsive-embed-16by9' -%}
 {%- endcase -%}
 
+{% if include.extra %}
+  {% assign extras_string = include.extra %}
+{% else %}
+  {% assign extras_string = 'frameborder="0" allowfullscreen' %}
+{% endif %}
+
 <div class="responsive-embed {{ ratio_class }}">
-  <iframe src="{{ include.url }}" frameborder="0" allowfullscreen></iframe>
+  <iframe src="{{ include.url }}" {{ extras_string }}></iframe>
 </div>

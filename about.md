@@ -1,9 +1,11 @@
 ---
+permalink: /about/
 title: About CoffeeCraft
 layout: collection
-permalink: /about/
 collection: seasons
 entries_layout: list
+show_excerpts: true
 sort_by: title
+sort_order: forward
 ---
-CoffeeCraft is a small, family run ... etc.
+CoffeeCraft is a small, family run survival Minecraft server that [my sister]({% link _members/rayeste.md %}), [her husband]({% link _members/arcaidius.md %}), [and I]({% link _members/anonjr.md %}) have been playing on. Inspired by [HermitCraft](http://hermitcraft.com/), we live stream and produce various videos.
