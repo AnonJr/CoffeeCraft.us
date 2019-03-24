@@ -24,7 +24,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: # site's Twitter username, e.g. "mmistakes"
+  username: CoffeeCraft_us # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
 liquid:
