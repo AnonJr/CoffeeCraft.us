@@ -15,7 +15,7 @@ AnonJr takes his coffee as it should be - black. And since he's the server and w
 ## <i class="fas fa-building"></i> Craft
 Founding member of CoffeeCraft, server admin, and redstone enthusiast. AnonJr does some of the more technical builds, farms, and tends to build dwarven fortresses into the sides of mountains. He uses Restream.io to broadcast on YouTube, Twitch, and Mixer.
 
-## <i class="fab fa-youtube"></i> Season 00 Playlist
+## <i class="fab fa-youtube"></i> Season 00 Live Streams Playlist
 {% include responsive-embed url="https://www.youtube.com/embed/videoseries?list=PLRYHZptiLlalzpDIvSrkgL1vAyaf0fOum" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
 {% comment %}
 <!-- https://www.youtube.com/playlist?list=PLRYHZptiLlalzpDIvSrkgL1vAyaf0fOum  - Season 00-->
