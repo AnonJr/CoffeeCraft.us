@@ -5,7 +5,7 @@ excerpt: "Season 00 - the season that started it all."
 ---
 
 ## The "Beta" season.
-We started Season 00 with the initial release of 1.13 on a local server (AnonJr's old [Alienware M17x R4](https://www.dell.com/support/home/us/en/19/product-support/product/alienware-m17x-r4/manuals) for the curious). Mostly this season is about changing the way we work together in a more stream-friednly way (a little more space between builds, making sure we're always chatting via Discord, etc.), getting our recording and streaming gear in order, and working through building channels on Twitch/Mixer/YouTube. Each member's page has where to find each of us.
+We started Season 00 with the initial release of 1.13 on a local server (AnonJr's old [Alienware M17x R4](https://www.dell.com/support/home/us/en/19/product-support/product/alienware-m17x-r4/manuals) for the curious) with the seed *-1872826417*. Mostly this season is about changing the way we work together in a more stream-friednly way (a little more space between builds, making sure we're always chatting via Discord, etc.), getting our recording and streaming gear in order, and working through building channels on Twitch/Mixer/YouTube. Each member's page has where to find each of us.
 
 In late April 2019 we upgraded the server to one provided by [CubedHost](https://cubedhost.com/) given the struggles the old M17x was having with 1.13 and the builds we were doing.
 
