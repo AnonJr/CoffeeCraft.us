@@ -9,7 +9,7 @@ We started Season 00 with the initial release of 1.13 on a local server (AnonJr'
 
 In late April 2019 we upgraded the server to one provided by [CubedHost](https://cubedhost.com/) given the struggles the old M17x was having with 1.13 and the builds we were doing.
 
-We've got a few data packs and crafting recipies in place, mostly from [Vanilla Tweaks](https://vanillatweaks.net/) and [VoodooBeard](http://mc.voodoobeard.com/):
+Up until we upgraded to 1.14.x we were using a few data packs and crafting recipies, mostly from [Vanilla Tweaks](https://vanillatweaks.net/) and [VoodooBeard](http://mc.voodoobeard.com/):
 
 * One Player Sleep (Can't remember where I found this one&hellip;)
 * Anti-Ender Grief (VoodooBeard)
@@ -26,4 +26,12 @@ We've got a few data packs and crafting recipies in place, mostly from [Vanilla 
 * Terracotta Rotation Wrench (Vanilla Tweaks)
 * Universal Dyeing (Vanilla Tweaks)
 
-[AnonJr]({% link _members/anonjr.md %}) has been running a texture pack consisting of the 1.14 beta textures as they've been released, and a few items from [Vanilla Tweaks](https://vanillatweaks.net/). Because of the custom textures needed for a couple items, it's also set as the server texture pack. When we update the Season 00 server to 1.14 we'll slim and update the server texture pack.
+[AnonJr]({% link _members/anonjr.md %}) was running a texture pack consisting of the 1.14 beta textures as they were released, and a few items from [Vanilla Tweaks](https://vanillatweaks.net/). Because of the custom textures needed for a couple items, it's also set as the server texture pack.
+
+Now that we're on the 1.14.x series we slmmed the server texture pack, and switched everything over to offerings from Vanilla Tweaks. Here's the links if you want to play along with our current server setup:
+
+ * [1.14 Vanilla Tweaks Datapack selection](https://vanillatweaks.net/share#pdHb1E)
+ * [1.14 Vanilla Tweaks Crafting selection](https://vanillatweaks.net/share#6j5spi)
+ * [1.14 Vanilla tweaks texture selection](https://vanillatweaks.net/share#eTitrj)
+
+Some of us are also running [OptiFine](https://optifine.net/home), and a few custom addtional textures.
