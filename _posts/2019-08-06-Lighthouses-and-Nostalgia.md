@@ -1,6 +1,6 @@
 ---
 title: "Season 00 Live: Lighthouses and Nostalgia"
-excerpt: ""
+excerpt: "Quick look an update to the Lighthouse redstone, then a trip down memory lane as we go through old worlds as far back as 1.8.2"
 author: AnonJr
 tags:
 - Season 00
