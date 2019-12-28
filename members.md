@@ -6,5 +6,3 @@ collection: members
 entries_layout: grid
 sort_by: title
 ---
-
-Meet the members of the CoffeeCraft server.

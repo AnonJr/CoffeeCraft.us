@@ -12,7 +12,7 @@ baseurl: # the subpath of your site, e.g. "/blog"
 url: https://coffeecraft.us # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: /assets/res/logo.png # path of site logo, e.g. "/images/logo.png"
 date_format: "%d %b %Y"
-read_time: true # reading time estimates, e.g. true
+read_time: false # reading time estimates, e.g. true
 words_per_minute: 200
 mathjax: # MathJax equations, e.g. true
 google_fonts:
@@ -121,13 +121,13 @@ footer_links:
   - title: Home
     url: /
     icon: fas fa-home
-  - title: Members
+ - title: Members
     url: /members/
     icon: fas fa-users
-  - title: Posts
+  - title: "Post Archive"
     url: /posts/
     icon: fas fa-newspaper
-  - title: About
+  - title: "Season Info"
     url: /about/
     icon: fas fa-info-circle
   - title: Feed

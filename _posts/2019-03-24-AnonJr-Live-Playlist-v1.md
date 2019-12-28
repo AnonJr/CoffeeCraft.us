@@ -7,7 +7,7 @@ tags:
 - AnonJr
 ---
 
-Getting ready for Monday's live stream. As I was going over the [test stream]({% post_url 2019-03-23-Test-Stream %}), I was reminded that I needed some background music. I downloaded a bunch of tracks to run in the background. Here's the first run and we'll see how it goes.
+Getting ready for Monday's live stream. As I was going over the test stream, I was reminded that I needed some background music. I downloaded a bunch of tracks to run in the background. Here's the first run and we'll see how it goes.
 
 ## Incompetech
 [Incompetech](https://incompetech.com/music/royalty-free/full_list.php) has a great library of Public Domain music. Here's what I grabbed from there, all [licensed under Creative Commons: By Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
