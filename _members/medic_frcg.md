@@ -10,7 +10,7 @@ image:
 ## <i class="fas fa-mug-hot"></i> Coffee
 How does Medic like his coffee? Yes. He does not discriminate.
 
-![Coffee, the right way.](/assets/img/AnonJr-CoffeeCrafting.png)
+![Coffee, the right way.](/assets/img/Medic_FRCG-CoffeeCrafting.gif)
 
 ## <i class="fas fa-building"></i> Craft
 Jack of all trades dabbling in large mining operations, redstone, and farms.
