@@ -1,0 +1,37 @@
+I"�
+<h2 id="the-beta-season">The “Beta” season.</h2>
+<p>We started Season 00 with the initial release of 1.13 on a local server (AnonJr’s old <a href="https://www.dell.com/support/home/us/en/19/product-support/product/alienware-m17x-r4/manuals">Alienware M17x R4</a> for the curious) with the seed <em>-1872826417</em>. Mostly this season is about changing the way we work together in a more stream-friednly way (a little more space between builds, making sure we’re always chatting via Discord, etc.), getting our recording and streaming gear in order, and working through building channels on Twitch/Mixer/YouTube. Each member’s page has where to find each of us.</p>
+
+<p>In late April 2019 we upgraded the server to one provided by <a href="https://cubedhost.com/">CubedHost</a> given the struggles the old M17x was having with 1.13 and the builds we were doing.</p>
+
+<p>Up until we upgraded to 1.14.x we were using a few data packs and crafting recipies, mostly from <a href="https://vanillatweaks.net/">Vanilla Tweaks</a> and <a href="http://mc.voodoobeard.com/">VoodooBeard</a>:</p>
+
+<ul>
+  <li>One Player Sleep (Can’t remember where I found this one…)</li>
+  <li>Anti-Ender Grief (VoodooBeard)</li>
+  <li>Gravestones (VoodooBeard)</li>
+  <li>Mob Muffler (VoodooBeard)</li>
+  <li>Zombie Leather (VoodooBeard)</li>
+  <li>AFK Name Display (Vanilla Tweaks)</li>
+  <li>Double Shulker Shells (Vanilla Tweaks)</li>
+  <li>Double Slab Crafting (Vanilla Tweaks)</li>
+  <li>Dragon Drops Elytra (Vanilla Tweaks)</li>
+  <li>Mob Silencer (Vanilla Tweaks)</li>
+  <li>More Mob Heads (Vanilla Tweaks)</li>
+  <li>Redstone Rotation Wrench (Vanilla Tweaks)</li>
+  <li>Terracotta Rotation Wrench (Vanilla Tweaks)</li>
+  <li>Universal Dyeing (Vanilla Tweaks)</li>
+</ul>
+
+<p><a href="/members/anonjr/">AnonJr</a> was running a texture pack consisting of the 1.14 beta textures as they were released, and a few items from <a href="https://vanillatweaks.net/">Vanilla Tweaks</a>. Because of the custom textures needed for a couple items, it’s also set as the server texture pack.</p>
+
+<p>Now that we’re on the 1.14.x series we slmmed the server texture pack, and switched everything over to offerings from Vanilla Tweaks. Here’s the links if you want to play along with our current server setup:</p>
+
+<ul>
+  <li><a href="https://vanillatweaks.net/share#pdHb1E">1.14 Vanilla Tweaks Datapack selection</a></li>
+  <li><a href="https://vanillatweaks.net/share#6j5spi">1.14 Vanilla Tweaks Crafting selection</a></li>
+  <li><a href="https://vanillatweaks.net/share#eTitrj">1.14 Vanilla tweaks texture selection</a></li>
+</ul>
+
+<p>Some of us are also running <a href="https://optifine.net/home">OptiFine</a>, and a few custom addtional textures.</p>
+:ET

@@ -2,8 +2,8 @@
 
 - title: Home
   url: /
-- title: Members
-  url: /members/
+#- title: Members
+#  url: /members/
 - title: "Post Archive"
   url: /posts/
 - title: "Season Info"

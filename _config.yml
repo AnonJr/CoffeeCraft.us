@@ -20,7 +20,7 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+google_analytics: "UA-155138217-1" # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
@@ -112,18 +112,18 @@ author:
   email:
   twitter: "@anonjr"
   links:
-    - title:
-      url:
-      icon:
+    - title: AnonJr.com
+      url: https://www.anonjr.com
+      icon: fas fa-home
 
 # Footer Links
 footer_links:
   - title: Home
     url: /
     icon: fas fa-home
- - title: Members
-    url: /members/
-    icon: fas fa-users
+  #- title: Members
+  #  url: /members/
+  #  icon: fas fa-users
   - title: "Post Archive"
     url: /posts/
     icon: fas fa-newspaper
