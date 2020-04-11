@@ -27,9 +27,6 @@ AnonJr:
     - title: Twitch
       url: https://www.twitch.tv/anonjr_live
       icon: fab fa-twitch
-    - title: Mixer
-      url: https://mixer.com/AnonJr_Live
-      icon:
 Arcaidius:
   name: Arcaidius
   UUID-L: c7a25980-8030-4d5c-8cb6-6ea9ddbdf669
