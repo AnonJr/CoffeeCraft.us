@@ -13,7 +13,7 @@ We're still running a "vanilla" server in the sense that we're using the JAR fro
 
 Here's the links if you want to play along with our current 1.15.2 server setup:
 
- * [1.15.2 Vanilla Tweaks Datapack selection](https://vanillatweaks.net/share#CTebIH)
+ * [1.15.2 Vanilla Tweaks Datapack selection](https://vanillatweaks.net/share#CTebIH) (Replaced Player Graves with the [Player Graves datapack that VooDooBeard built](http://mc.voodoobeard.com/#gravestones))
  * [1.15.2 Vanilla Tweaks Crafting selection](https://vanillatweaks.net/share#RJF2qf)
  * [1.15.2 Vanilla Tweaks Texture selection](https://vanillatweaks.net/share#nEAEe4)
 
