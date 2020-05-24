@@ -1,0 +1,11 @@
+I"�<p>Small update again. If you’ve been watching the live streams, you’ll know that we’ve been having problems with the Player Graves datapack again. We’re at the point where the next “fix” involves completely nuking the Player Data/Advancements/etc.…</p>
+
+<p>Since that was a step too far, we’ve removed the Vanilla Tweaks version of Player Graves and installed the <a href="http://mc.voodoobeard.com/#gravestones">Player Graves datapack that VooDooBeard built</a>. It’s a little full-circle, since his datapack was the one we started Season 00 with before moving everything to the Vanilla Tweaks versions.</p>
+
+<p>On the one hand, we’ll be missing some features - on the other we shouldn’t be missing any items. We hope.</p>
+
+<p>I didn’t update the Vanilla Tweaks link on the <a href="/seasons/season00/">Seaon 01 page</a> to one that doesn’t include Player Graves because I’d like to switch back once it’s updated. They’re tied up in other updates and don’t currently have the time to do the level of troubleshooting that Player Graves would require (totally understand - I worked on a sizeable internal software project at my previous job).</p>
+
+<p>Time management hasn’t been my best suit this year, but if I can I’m going to dust off my “programmer” hat and see what I can figure out. If nothing else, it will be a chance to finally learn more about how to program data packs. :)</p>
+
+:ET
