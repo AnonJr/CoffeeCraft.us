@@ -11,11 +11,11 @@ This is also the season that our good friend [Medic_FRCG]({% link _members/medic
 
 We're still running a "vanilla" server in the sense that we're using the JAR from Mojang. We are using a few datapacks, crafting tweaks, and resources from [Vanilla Tweaks](https://vanillatweaks.net/) to round off a few edges.
 
-Here's the links if you want to play along with our current 1.15.2 server setup:
+Here's the links if you want to play along with our current 1.16.0 server setup:
 
- * [1.15.2 Vanilla Tweaks Datapack selection](https://vanillatweaks.net/share#CTebIH) (Replaced Player Graves with the [Player Graves datapack that VooDooBeard built](http://mc.voodoobeard.com/#gravestones))
- * [1.15.2 Vanilla Tweaks Crafting selection](https://vanillatweaks.net/share#RJF2qf)
- * [1.15.2 Vanilla Tweaks Texture selection](https://vanillatweaks.net/share#nEAEe4)
+ * [1.16.0 Vanilla Tweaks Datapack selection](https://vanillatweaks.net/share#LZp0K0)[^1]
+ * [1.16.0 Vanilla Tweaks Crafting selection](https://vanillatweaks.net/share#bFrTnQ)
+ * [1.16.0 Vanilla Tweaks Texture selection](https://vanillatweaks.net/share#BpsjBs)
 
 Some of us are also running the pre-release [OptiFine](https://optifine.net/home), and a few custom additional textures.
 
@@ -23,3 +23,5 @@ Some of us are also running the pre-release [OptiFine](https://optifine.net/home
 AnonJr's Creative Extras: https://vanillatweaks.net/share#oD2vVw
 AnonJr's Extra Textures: https://vanillatweaks.net/share#fjtYdl
 {% endcomment %}
+
+[^1]: We've been using the [Player Graves datapack that VooDooBeard built](http://mc.voodoobeard.com/#gravestones) instead of the Vanilla Tweaks one due to some issues in the current version. We'll look at going back when it's been updated. We also customized the Wandering Trader to use our heads instead of the Hermit heads.
