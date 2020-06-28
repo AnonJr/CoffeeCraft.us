@@ -20,17 +20,17 @@ Speaking of which, I went to the Vanilla Tweaks website and grabbed updated vers
 
 Here's the links if you want to play along with our current server setup:
 
- * [1.16.0 Vanilla Tweaks Datapack selection](https://vanillatweaks.net/share#LZp0K0)
- * [1.16.0 Vanilla Tweaks Crafting selection](https://vanillatweaks.net/share#bFrTnQ)
- * [1.16.0 Vanilla Tweaks Texture selection](https://vanillatweaks.net/share#BpsjBs)
+ * [1.16.1 Vanilla Tweaks Datapack selection](https://vanillatweaks.net/share#LZp0K0)
+ * [1.16.1 Vanilla Tweaks Crafting selection](https://vanillatweaks.net/share#bFrTnQ)
+ * [1.16.1 Vanilla Tweaks Texture selection](https://vanillatweaks.net/share#BpsjBs)
 
-I've updated the Vanilla Tweaks link on the [Season 01 page]({% link _seasons/season00.md %}). As noted before, we're still using the [Player Graves datapack that VooDooBeard built](http://mc.voodoobeard.com/#gravestones) instead of the Vanilla Tweaks one due to some issues in the current version. We'll look at going back when it's been updated. I've also added the [Death Book/Message from VooDooBeard](http://mc.voodoobeard.com/#death_book) as well, since one of the features we've been missing from the old Graves datapack was the message in chat with the location you died at.
+I've updated the Vanilla Tweaks link on the [Season 01 page]({% link _seasons/season01.md %}). As noted before, we're still using the [Player Graves datapack that VooDooBeard built](http://mc.voodoobeard.com/#gravestones) instead of the Vanilla Tweaks one due to some issues in the current version. We'll look at going back when it's been updated. I've also added the [Death Book/Message from VooDooBeard](http://mc.voodoobeard.com/#death_book) as well, since one of the features we've been missing from the old Graves datapack was the message in chat with the location you died at.
 
 We customized the Wandering Trader to use our heads instead of the Hermit heads.
 
 We added the Coordinates HUD datapack to the server. Everyone is now on board with getting coordinates and not blocking most of the screen with debug text.
 
-I'm also using a few extra textures that's not a part of the main CoffeeCraft Texture Pack. While trying to stick to the original goal of keeping as close to "vanilla" as possible, these scratch a few itches that bug me personally, but not the other server members. If you want to see what I'm choosing to add, you can see "AnonJr's Extra Textures" here: https://vanillatweaks.net/share#gql07Y
+I'm also using a few extra textures that's not a part of the main CoffeeCraft Texture Pack. While trying to stick to the original goal of keeping as close to "vanilla" as possible, these scratch a few itches that bug me personally, but not the other server members. If you want to see what I'm choosing to add, you can see most of "AnonJr's Extra Textures" here: https://vanillatweaks.net/share#gql07Y
 
 I've got a few extra Datapacks that I run in my creative testing world, mostly so I can check and assess various bits. They're not really appropriate to run on the server as they don't help/enhance the survival experience. For the curious, you can find "AnonJr's Creative Extras" here: https://vanillatweaks.net/share#1xZp5s
 
