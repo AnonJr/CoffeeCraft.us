@@ -18,9 +18,9 @@ Speaking of which, I went to the Vanilla Tweaks website and grabbed updated vers
 
 Here are the Vanilla Tweaks links:
 
- * [1.16.2 Vanilla Tweaks Datapack selection](https://vanillatweaks.net/share#0RjgAk)[^1]
+ * [1.16.2 Vanilla Tweaks Datapack selection](https://vanillatweaks.net/share#0RjgAk)
  * [1.16.2 Vanilla Tweaks Crafting selection](https://vanillatweaks.net/share#bFrTnQ)
- * [1.16.2 Vanilla Tweaks Texture selection](https://vanillatweaks.net/share#0jwHZf)[^2]
+ * [1.16.2 Vanilla Tweaks Texture selection](https://vanillatweaks.net/share#0jwHZf)
 
 Here's the links to the Datapacks from VooDooBeard:
 
@@ -39,4 +39,4 @@ I'm also using a few extra textures that's not a part of the main CoffeeCraft Te
 I've got a few extra Datapacks that I run in my creative testing world, mostly so I can check and assess various bits. They're not really appropriate to run on the server as they don't help/enhance the survival experience. For the curious, you can find "AnonJr's Creative Extras" here: https://vanillatweaks.net/share#ZRhJwS
 
 ## No OptiFine for a bit&hellip;
-Some of us were running the 1.16.2 betas of [OptiFine](https://optifine.net/home), but sadly there's no 1.16 (beta or otherwise) just yet.
+Some of us were running the 1.16.2 betas of [OptiFine](https://optifine.net/home).
