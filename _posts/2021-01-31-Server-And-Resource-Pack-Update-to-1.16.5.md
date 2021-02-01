@@ -30,9 +30,9 @@ Here's the links to the Datapacks from VooDooBeard:
 
 We're back to the Vanilla Tweaks player graves, the one from VooDooBeard wasn't working right again... (also removed the Death Book/Message from VooDooBeard too.)
 
-I'm also using a few extra textures that's not a part of the main CoffeeCraft Texture Pack. While trying to stick to the original goal of keeping as close to "vanilla" as possible, these scratch a few itches that bug me personally, but not the other server members. If you want to see what I'm choosing to add, you can see most of "AnonJr's Extra Textures" here: https://vanillatweaks.net/share#SrYtHk (I did remove the Ancient Debris from the Uniform Ore portion though. Didn't like the way it blended in with the quartz.)
+I'm also using a few extra textures that's not a part of the main CoffeeCraft Texture Pack. While trying to stick to the original goal of keeping as close to "vanilla" as possible, these scratch a few itches that bug me personally, but not the other server members. If you want to see what I'm choosing to add, you can see most of "AnonJr's Extra Textures" here: <https://vanillatweaks.net/share#Gh8qWD> (I did remove the Ancient Debris from the Uniform Ore portion though. Didn't like the way it blended in with the quartz.)
 
-I've got a few extra Datapacks that I run in my creative testing world, mostly so I can check and assess various bits. They're not really appropriate to run on the server as they don't help/enhance the survival experience. For the curious, you can find "AnonJr's Creative Extras" here: https://vanillatweaks.net/share#ZRhJwS
+I've got a few extra Datapacks that I run in my creative testing world, mostly so I can check and assess various bits. They're not really appropriate to run on the server as they don't help/enhance the survival experience. For the curious, you can find "AnonJr's Creative Extras" here: <https://vanillatweaks.net/share#rwKChy>
 
 ## No OptiFine for a bit&hellip;
 Some of us are running the 1.16.5 version of [OptiFine](https://optifine.net/home).
