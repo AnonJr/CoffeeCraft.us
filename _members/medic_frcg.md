@@ -1,6 +1,6 @@
 ---
-title: "Medic_FRCG"
-author: Medic_FRCG
+title: "XMedic_Frog"
+author: XMedic_Frog
 excerpt: "First appearing in Season 01 as a Jack-of-all-trades style adventurer and redstone enthusiast."
 image:
   path: "https://minotar.net/helm/582e131af7e24dfab488a67d0a2b6929/60.png"
