@@ -53,3 +53,6 @@ XMedic_Frog:
     - title: YouTube
       url: https://www.youtube.com/channel/UCiLyNb25QMgxylQUg18QhYw
       icon: fab fa-youtube
+    - title: Twitch
+      url: https://www.twitch.tv/xmedic_frog
+      icon: fab fa-twitch

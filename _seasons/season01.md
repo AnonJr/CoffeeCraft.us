@@ -11,7 +11,7 @@ This is also the season that our good friend [XMedic_Frog]({% link _members/medi
 
 We're still running a "vanilla" server in the sense that we're using the JAR from Mojang. We are using a few datapacks, crafting tweaks, and resources from [Vanilla Tweaks](https://vanillatweaks.net/) to round off a few edges.
 
-We updated to 1.16.5 on 31 January 2021. Here's the links if you want to play along with our current 1.16.2 server setup:
+We updated to 1.16.5 on 31 January 2021. Here's the links if you want to play along with our current 1.16.5 server setup:
 
  * [1.16.5 Vanilla Tweaks Datapack selection](https://vanillatweaks.net/share#dmMYSP)[^1]
  * [1.16.5 Vanilla Tweaks Crafting selection](https://vanillatweaks.net/share#P0DtdL)
@@ -24,6 +24,9 @@ We're using a selection of Datapacks from VooDooBeard as well:
  * [Trader Notifications](http://mc.voodoobeard.com/#trader_notify)
 
 Some of us are also running the pre-release [OptiFine](https://optifine.net/home), and a few custom additional textures.
+
+## World Download
+If you want to walk through the first proper season, you can [download Season 01]({% link _seasons/CoffeeCraft-S01.zip %}) and poke around. I'd recommend using a 1.16.5 client, and downloading the texture pack linked in the footnote.
 
 [^1]: We customized the Wandering Trader to use our heads instead of the Hermit heads. This link includes the "Blocks Only" version of the Wandering Trader.
 
