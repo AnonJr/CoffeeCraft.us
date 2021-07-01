@@ -26,7 +26,7 @@ We're using a selection of Datapacks from VooDooBeard as well:
 Some of us are also running the pre-release [OptiFine](https://optifine.net/home), and a few custom additional textures.
 
 ## World Download
-If you want to walk through the first proper season, you can [download Season 01]({% link _seasons/CoffeeCraft-S01.zip %}) and poke around. I'd recommend using a 1.16.5 client, and downloading the texture pack linked in the footnote.
+If you want to walk through the first proper season, you can [download Season 01](https://archive.org/details/CoffeeCraft_S01_World) and poke around. I'd recommend using a 1.16.5 client, and downloading the texture pack linked in the footnote.
 
 [^1]: We customized the Wandering Trader to use our heads instead of the Hermit heads. This link includes the "Blocks Only" version of the Wandering Trader.
 

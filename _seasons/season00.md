@@ -37,4 +37,4 @@ Now that we're on the 1.14.x series we slimmed the server texture pack, and swit
 Some of us are also running [OptiFine](https://optifine.net/home), and a few custom additional textures.
 
 ## World Download
-If you want to see what the early world and building styles looked like, you can [download Season 00]({% link _seasons/CoffeeCraft-S00.zip %}) and poke around. I'd recommend using a 1.14.4 client since not everything upgrades smoothly.
+If you want to see what the early world and building styles looked like, you can [download Season 00](https://archive.org/details/CoffeeCraft_S00_World) and poke around. I'd recommend using a 1.14.4 client since not everything upgrades smoothly.
